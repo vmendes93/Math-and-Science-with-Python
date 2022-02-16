@@ -1,5 +1,22 @@
 # Let's Learn Science with Python
 
+- [Who are you and what's the point here?](#who-are-you-and-what-s-the-point-here-)
+- [Why is this important?](#why-is-this-important-)
+- [Brief background and history](#brief-background-and-history)
+- [Who these lessons are aimed at?](#who-these-lessons-are-aimed-at-)
+- [Are you following any particular books or mtehodologies?](#are-you-following-any-particular-books-or-mtehodologies-)
+- [Classes order or program/syllabus?](#classes-order-or-program-syllabus-)
+- [Okay, I'm ready. What do I need to start?](#okay--i-m-ready-what-do-i-need-to-start-)
+- [Downloading Python and setting up my enviroments](#downloading-python-and-setting-up-my-enviroments)
+  * [Windows setup:](#windows-setup-)
+  * [MacOS setup:](#macos-setup-)
+  * [Linux setup:](#linux-setup-)
+- [What is Sympy?](#what-is-sympy-)
+- [Ready to get started?](#ready-to-get-started-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Who are you and what's the point here?
    Hey! Glad you got your interest drawn here. Once, the great Yahtzee Croshaw said: "Producing stuff on the internet is like writing a message in a bottle while stranded on an island - you'll send thousands of those knowing they won't return but, eventually, one floats back with a reply".
 
